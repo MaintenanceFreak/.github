@@ -1,8 +1,3 @@
-<head>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href=".github/profile/main.css" />
-</head>
 
 
 ![logo-banner](https://github.com/MaintenanceFreak/.github/assets/34579547/0f40b61d-c11e-486a-88ad-8f69885f6904)
