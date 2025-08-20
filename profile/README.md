@@ -1,4 +1,4 @@
-![logo-banner](https://github.com/MaintenanceFreak/.github/assets/34579547/0f40b61d-c11e-486a-88ad-8f69885f6904)
+![logo-banner](https://cdn.maintenancefreak.com/social-preview.jpg)
 # Revolutionizing Asset Management
 
 **Welcome to [MaintenanceFreak.com](https://maintenancefreak.com)** — the unapologetically badass platform for maintainers, mechanics, and anyone who believes the tools we use should actually work for us.
